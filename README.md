@@ -1,4 +1,5 @@
 Light Control Project Using a Push Button
+
 Description:
 This project is a simple light control system using a push button and an Arduino microcontroller. The goal of the project is to turn the light on only when the button is pressed and turn it off when the button is not pressed, thereby conserving electrical energy.
 
